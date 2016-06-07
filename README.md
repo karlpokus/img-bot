@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/img-bot.svg)](https://badge.fury.io/js/img-bot)
+
 # img-bot
 Client side image manipulation based on the excellent [load-image lib](https://github.com/blueimp/JavaScript-Load-Image)
 
