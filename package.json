@@ -1,0 +1,33 @@
+{
+  "name": "img-bot",
+  "version": "1.0.0",
+  "description": "Client side image manipulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "client side",
+    "browser",
+    "image",
+    "manipulation",
+    "crop",
+    "square",
+    "resize",
+    "scale",
+    "exif",
+    "orientation",
+    "canvas",
+    "browserify"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlpokus/img-bot.git"
+  },
+  "author": "Karl Pokus <karl.pokus@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karlpokus/img-bot/issues"
+  },
+  "homepage": "https://github.com/karlpokus/img-bot#readme"
+}
