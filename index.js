@@ -1,4 +1,4 @@
-var loadImage = require('./lib/load-image.all-2.6.1.min.js');
+var loadImage = require('blueimp-load-image');
 
 var imgBot = {
   process: function(file, o, cb) {
