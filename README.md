@@ -7,7 +7,6 @@ Client side image manipulation based on the excellent [load-image lib](https://g
 
 - Crops an image to a square
 - Properly orients the image (even those taken on iOS)
-- Scales down to about 10kB
 - Lets you set some options i.e size and image quality. If you need more options you should probably use the load-image lib instead.
 
 # Usage
